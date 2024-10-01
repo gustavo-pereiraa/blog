@@ -1,0 +1,23 @@
+header{
+    background-color: orange;
+}
+fieldset{
+    background-color: rgb(203, 198, 198);
+}
+footer{
+    background-color: black;
+    color: white;
+}
+body{
+    text-align: center;
+}
+.conteudo{
+    text-align: left;
+}
+label{
+    width: 80px;
+    display: inline-block;
+}
+.topo{
+    text-align: left;
+}
